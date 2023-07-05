@@ -85,7 +85,7 @@
                     android:id="@+id/tvMovieTagLine"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="sub title"
+                    android:text="Sub title"
                     android:textAlignment="center"
                     android:textColor="@color/Sandy_Tan"
                     android:textSize="12sp"
